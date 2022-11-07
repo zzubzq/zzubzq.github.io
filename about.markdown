@@ -17,4 +17,4 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll
 
-[test-page]: https://zzubzq.github.io/page/test/
+[test-page](https://zzubzq.github.io/page/test/)
